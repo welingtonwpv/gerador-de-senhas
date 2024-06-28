@@ -12,20 +12,14 @@ O projeto consiste em uma página web que gera senhas aleatórias com base no ta
 - **Botão Gerar Senha**: Gera uma senha aleatória com o tamanho especificado.
 - **Copiar Senha**: Permite copiar a senha gerada clicando nela.
 
-## Como Usar
-
-1. Abra o arquivo `index.html` em um navegador web.
-2. Use o slider para selecionar o tamanho da senha desejada.
-3. Clique no botão "Gerar senha" para gerar uma nova senha.
-4. Clique na senha gerada para copiá-la para a área de transferência.
-
 ## Estrutura do Projeto
 
-O projeto consiste nos seguintes arquivos:
+O projeto consiste nos seguintes arquivos e diretórios:
 
 - **index.html**: Arquivo HTML principal que define a estrutura da página.
 - **style.css**: Arquivo CSS que estiliza a aparência da página HTML.
 - **script.js**: Arquivo JavaScript que adiciona funcionalidade interativa à página.
+- **assets/**: Diretório contendo recursos adicionais, incluindo a logo em PNG.
 
 ## Instalação
 
