@@ -33,5 +33,6 @@ npm install
 Uso
 Abra o arquivo index.html em seu navegador para iniciar o gerador de senhas.
 
-Contribuições
+## Contribuições
+
 Contribuições são bem-vindas! Para mudanças importantes, abra primeiro uma issue para discutir o que você gostaria de alterar.
